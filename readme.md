@@ -4,12 +4,6 @@ An advanced machine learning project designed to detect, classify, and autonomou
 
 ---
 
-## 📅 Project Date
-
-**April 2025**
-
----
-
 ## 🧰 Technologies & Libraries Used
 
 - Python
